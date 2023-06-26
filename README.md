@@ -57,4 +57,5 @@ The existing dataset for the task of Ethereum Transactions Fraud Detection is av
 | AdaBoost Classifier                 | 0.977    | 0.9416      | 0.9584   |
 | Light Gradient Boosting Machine     | 0.9897   | 0.9842      | 0.9703   |
 | Extreme Gradient Boosting Machine   | 0.9907   | 0.9842      | 0.9747   |
+
 *Evaluation Metrics of Models using Cost Sensitive Learning(= 3)*
